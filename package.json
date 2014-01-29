@@ -1,0 +1,10 @@
+{
+    "name":"JS_Design_Pattern",
+    "version":"0.0.1",
+    "author":"goddard",
+    "description":"JavaScript Design Pattern",
+    "dependencies":{
+        "express":"latest"
+    },
+    "engines":">=0.6"
+}
